@@ -1,7 +1,10 @@
+
 Welcome to the world of GeoCouch
 ================================
 
 GeoCouch is a spatial extension for Couchbase and Apache CouchDB.
+
+This is a version of Geocouch derived from newvtree branch by Pieter van der Linden (github: PieterVDL) to adapted for CouchDB 1.6. and erlang version 18. Also got rid of problem of server crashing in geo requests if chunks were to large.
 
 
 For Couchbase
